@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Little-Lemon-Website/static/css/main.04820dae.css",
+    "main.js": "/Little-Lemon-Website/static/js/main.3ef11dba.js",
+    "static/js/496.2ab57c3e.chunk.js": "/Little-Lemon-Website/static/js/496.2ab57c3e.chunk.js",
+    "static/media/restauranfood.jpg": "/Little-Lemon-Website/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/Logo .svg": "/Little-Lemon-Website/static/media/Logo .fd87fc34e15316b670ea115ce700cd15.svg",
+    "index.html": "/Little-Lemon-Website/index.html",
+    "main.04820dae.css.map": "/Little-Lemon-Website/static/css/main.04820dae.css.map",
+    "main.3ef11dba.js.map": "/Little-Lemon-Website/static/js/main.3ef11dba.js.map",
+    "496.2ab57c3e.chunk.js.map": "/Little-Lemon-Website/static/js/496.2ab57c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04820dae.css",
+    "static/js/main.3ef11dba.js"
+  ]
+}
